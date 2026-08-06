@@ -6,6 +6,20 @@
 
 > **Synthetic-data disclosure:** All project names, organizations, budgets, schedules, RFIs, change conditions, workflow records, and outcomes in this repository are synthetic. The dataset was created for portfolio demonstration, education, and analytical-method development. It does **not** represent actual In Project LLC clients or confidential construction records.
 
+## Read the case study
+
+**[Predictive Construction Project Overrun Model — Case Study (PDF, 11 pages)](reports/Predictive_Construction_Project_Overrun_Model_Case_Study.pdf)**  ·  [DOCX version](reports/Predictive_Construction_Project_Overrun_Model_Case_Study.docx)
+
+The report is the fastest way to review this project end to end: business framing, feature lineage, modeling methodology, performance, governance and limitations, with a linked table of contents. Everything else in this repository is the supporting evidence.
+
+| Deliverable | Location |
+|---|---|
+| Case-study report | [`reports/`](reports) |
+| Dashboards | [Executive](assets/executive_model_dashboard.png) · [Performance](assets/model_performance_dashboard.png) · [Drivers](assets/feature_driver_dashboard.png) · [Project risk](assets/project_risk_dashboard.png) |
+| Models and metrics | [`analysis/`](analysis) |
+| Scoring and monitoring | [`automation/`](automation) |
+| Documentation | [`documentation/`](documentation) |
+
 ## Project Summary
 
 This repository contains an end-to-end construction machine-learning case study that predicts:
